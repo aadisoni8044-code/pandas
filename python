@@ -1,15 +1,1 @@
-import random
 
-a = input()
-
-ans =[
-    
-'yes ✅', 
-'no  ❌', 
-    
-] 
-
-print(random.choice(ans))
-
-# game  yes no game 
-# :)
