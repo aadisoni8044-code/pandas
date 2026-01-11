@@ -9,7 +9,6 @@ data = [
 ]
 
 series = pd.Series(data, index=['a','b','c','d','e'])
-
-
-
 print(series)
+
+#index a b c
